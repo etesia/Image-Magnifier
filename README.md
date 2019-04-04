@@ -1,0 +1,2 @@
+# Image-Magnifier
+Image Magnifier
